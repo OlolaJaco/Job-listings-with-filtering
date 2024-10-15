@@ -5,7 +5,7 @@ const jobData = [
     "logo": "./images/photosnap.svg",
     "new": true,
     "featured": true,
-    "position": "Senior Frontend Developer",
+    "position": "hello",
     "role": "Frontend",
     "level": "Senior",
     "postedAt": "1d ago",
